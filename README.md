@@ -11,7 +11,7 @@
 This is a template which can be used by any hotel.
 
 
-## Running iWAT:
+## How to run this template:
 
 Download the project and unzip the same.
 Run the index.html file and you are ready to go.
